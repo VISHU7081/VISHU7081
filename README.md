@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack devlopment
 - 💞️ I’m looking to collaborate on github for projects.
 - 📫 How to reach me- gondvishwajeet898@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
