@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder-vishu
+- 👋 Hi, I’m @VISHU7081
 - 👀 I’m interested in fullstack development & problem solving.
 - 🌱 I’m currently learning fullstack devlopment
 - 💞️ I’m looking to collaborate on github for projects.
