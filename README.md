@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VISHU7081
+- 👋 Hi, I’m Vishwajeet gond
 - 👀 I’m interested in fullstack development & problem solving.
 - 🌱 I’m currently learning fullstack devlopment
 - 💞️ I’m looking to collaborate on github for projects.
